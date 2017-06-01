@@ -1,0 +1,37 @@
+frame {
+	width: 778px;
+}
+.font {
+	font-family: "宋体";
+	font-size: 12px;
+	color: #000033;
+}
+.font1 {
+	font-family: "隶书";
+	font-size: 24px;
+	color: #000066;
+	font-weight: bolder;
+}
+.form1 {
+	border: 5px outset #0066FF;
+	height: 120px;
+	width: 400px;
+}
+.font2 {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #000066;
+	font-weight: bold;
+}
+.fontlishu {
+	font-family: "隶书";
+	font-size: 18px;
+	font-weight: normal;
+	color: #000000;
+}
+.lishu {
+	font-family: "隶书";
+	font-size: 14px;
+	color: #000000;
+}
+s

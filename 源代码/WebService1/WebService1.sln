@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService1", "http://localhost/data1/WebService1/WebService1.csproj", "{F7C68D1D-3A57-433F-88AE-9D7450737A42}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F7C68D1D-3A57-433F-88AE-9D7450737A42}.Debug.ActiveCfg = Debug|.NET
+		{F7C68D1D-3A57-433F-88AE-9D7450737A42}.Debug.Build.0 = Debug|.NET
+		{F7C68D1D-3A57-433F-88AE-9D7450737A42}.Release.ActiveCfg = Release|.NET
+		{F7C68D1D-3A57-433F-88AE-9D7450737A42}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
